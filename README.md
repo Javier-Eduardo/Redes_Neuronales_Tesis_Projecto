@@ -8,7 +8,7 @@ Este proyecto desarrolla un modelo de predicción del consumo de combustible bas
 * **Enfoque Mixto:** La fase cuantitativa se complementó con una fase cualitativa mediante entrevistas técnicas al personal de la estación, permitiendo incorporar eventos exógenos y definir el horizonte operativo ideal de 7 días.
 
 ## Tecnologías Utilizadas
-* **Lenguaje Principal:** Python 3.10
+* **Lenguaje Principal:** Python 3.11
 * **Procesamiento de Datos:** Pandas, NumPy
 * **Aprendizaje Profundo:** TensorFlow / Keras
 * **Estadística y Baseline:** Scikit-learn (GradientBoosting Regressor)
