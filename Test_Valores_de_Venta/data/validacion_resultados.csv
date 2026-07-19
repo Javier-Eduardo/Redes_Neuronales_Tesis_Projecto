@@ -1,0 +1,4 @@
+producto,pred_total,real_total,error_total_%,MAE_diario,sMAPE_%
+extra,18201.64,20559.9,-11.47,105.83,16.13
+super,2004.15,2447.73,-18.12,24.05,31.38
+diesel,47194.15,56216.61,-16.05,415.8,23.98

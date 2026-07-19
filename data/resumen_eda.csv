@@ -1,0 +1,4 @@
+producto,volumen_total,transacciones,ticket_promedio,ticket_mediano,dias_con_datos,pct_dias_imputados,vol_min_diario,vol_max_diario,vol_std_diario
+EXTRA,1298502.719,334470,3.879,3.867,1360,0.0,0.026,3694.215,387.6
+SUPER,64641.247,12540,5.312,5.262,1353,0.0,0.862,219.482,29.16
+DIESEL,2540349.769,119127,22.046,21.457,1362,0.0,0.124,4363.132,646.845
